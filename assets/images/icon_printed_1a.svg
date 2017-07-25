@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="71px" height="73px" viewBox="0 0 71 73" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_printed_1a</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-30.4%" y="-16.4%" width="160.7%" height="161.8%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-19.6%" y="-12.7%" width="139.3%" height="140.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="0000_general" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="0003_start_printing_1b" transform="translate(-214.000000, -1473.000000)">
+            <g id="easy_and_affordable" transform="translate(113.000000, 1101.000000)">
+                <g id="items_1" transform="translate(109.000000, 374.000000)">
+                    <g id="printed_or_refunded">
+                        <g id="icon_printed_1a" filter="url(#filter-1)">
+                            <g id="content" filter="url(#filter-2)">
+                                <g id="cube">
+                                    <path d="M0,15.0509062 C0,13.2136707 1.26934148,12.5110962 2.82025146,13.4724251 L20.1797485,24.2326801 C21.7373304,25.1981446 23,27.47576 23,29.3028682 L23,51.9916874 C23,53.8264105 21.7634201,54.5031731 20.2256626,53.4951779 L2.7743374,42.0558889 C1.24211316,41.0515207 0,38.7444809 0,36.9107103 L0,15.0509062 Z" id="Rectangle-6-Copy" fill="#471DA2"></path>
+                                    <path d="M22.5,15.0509062 C22.5,13.2136707 23.7634621,12.490789 25.3346491,13.4439654 L43.1653509,24.2611399 C44.7308844,25.2108865 46,27.475572 46,29.3024504 L46,51.9884164 C46,53.8229087 44.75313,54.5103247 43.2119585,53.5218278 L25.2880415,42.0255502 C23.7482487,41.0379376 22.5,38.7444809 22.5,36.9107103 L22.5,15.0509062 Z" id="Rectangle-6-Copy-2" fill="#A477F4" transform="translate(34.250000, 33.498597) scale(-1, 1) translate(-34.250000, -33.498597) "></path>
+                                    <path d="M20.2967576,0.699473911 C21.8898831,-0.214649429 24.4620386,-0.209789472 26.0592452,0.720473447 L44.7641588,11.6147978 C46.3535674,12.5405188 46.3613655,14.0598763 44.7882155,15.0043916 L26.0351885,26.2636615 C24.4590661,27.2099614 21.8987385,27.2184245 20.3210541,26.2852363 L1.21274085,14.9828167 C-0.366966057,14.0484323 -0.36494357,12.5550018 1.23703728,11.6357973 L20.2967576,0.699473911 Z" id="Rectangle-6-Copy-3" fill="#6D2EF0" transform="translate(23.000000, 13.500000) scale(-1, 1) translate(-23.000000, -13.500000) "></path>
+                                </g>
+                                <g id="card" transform="translate(11.000000, 32.000000)">
+                                    <rect id="card_frame" fill="#D4BEFC" x="0" y="0" width="29" height="23" rx="4.02285705"></rect>
+                                    <rect id="line" fill="#6D2EF0" x="3" y="7" width="23" height="2" rx="1"></rect>
+                                    <rect id="line_2" fill="#6D2EF0" x="5" y="11" width="8" height="2" rx="1"></rect>
+                                    <rect id="line_3" fill="#6D2EF0" x="5" y="14" width="8" height="2" rx="1"></rect>
+                                    <circle id="logo" fill="#6D2EF0" cx="21" cy="14" r="3"></circle>
+                                </g>
+                                <g id="return" transform="translate(39.000000, 24.000000)">
+                                    <path d="M7.99360578e-15,0 L3.10862447e-15,2 L6.27189822,2.01384695 L6.27189822,2.01384695 C10.6832695,2.02358626 14.2542361,5.60244538 14.2542361,10.0138274 L14.2542361,10.729023 L14.2542361,10.729023 C14.2542361,15.147301 10.6725141,18.729023 6.25423606,18.729023 C6.15422978,18.729023 6.0542323,18.7271478 5.95429635,18.7233983 L4.4408921e-16,18.5 L2.22044605e-15,20.4399414 L6.12151639,20.6359636 L6.12151639,20.6359636 C11.6415345,20.8127247 16.2596865,16.4811591 16.4364476,10.9611409 C16.4398628,10.8544903 16.4415707,10.7477919 16.4415707,10.6410866 L16.4415707,10.0235843 L16.4415707,10.0235843 C16.4415707,4.51498902 11.9866381,0.0437621791 6.47807957,0.0236509083 L7.99360578e-15,0 Z" id="Path-45" fill="#6D2EF0"></path>
+                                    <polyline id="Path-18" stroke="#6D2EF0" stroke-width="2.2987755" stroke-linecap="round" stroke-linejoin="round" points="5.14285714 14 0 19.5 6 25"></polyline>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

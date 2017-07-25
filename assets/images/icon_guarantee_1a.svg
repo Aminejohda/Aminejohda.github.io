@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="68px" height="56px" viewBox="0 0 68 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_guarantee_1a</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-19.6%" y="-15.6%" width="139.3%" height="148.9%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="0000_general" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="0003_start_printing_1b" transform="translate(-704.000000, -2071.000000)">
+            <g id="easy_and_affordable" transform="translate(113.000000, 1101.000000)">
+                <g id="items_2" transform="translate(597.000000, 865.000000)">
+                    <g id="4-day-guarantee" transform="translate(0.000000, 107.000000)">
+                        <g id="icon_guarantee_1a" filter="url(#filter-1)">
+                            <path d="M0,0 L39.2120056,0 C40.4424929,0 42.2857407,0.522779301 43.3285391,1.16736618 L56,9 L14.56,9 L0,0 Z" id="Rectangle-29-Copy-3" fill="#7543EE"></path>
+                            <path d="M21.555,0.981673013 L21.555,34.6605834 L35.445,43.018327 L35.445,9.33941659 L21.555,0.981673013 Z" id="Rectangle-29-Copy-4" stroke="#4E2BA9" stroke-width="1.11000001"></path>
+                            <path d="M15,9 L56,9 L56,41.7840409 C56,43.0078813 55.0068264,44 53.7811247,44 L15,44 L15,9 Z" id="Rectangle-29" fill="#AB87F2"></path>
+                            <rect id="card_frame" fill="#D4BEFC" x="26" y="18" width="28" height="21" rx="2.22000003"></rect>
+                            <text id="4-d" font-family="Poppins" font-size="19.9800003" font-weight="bold" letter-spacing="-3.5520001" fill="#5639AF">
+                                <tspan x="27" y="35">4 </tspan>
+                                <tspan x="39.4164601" y="35">d</tspan>
+                            </text>
+                            <path d="M0,0 L15,9.02564103 L15,44 L1.7060868,33.0012752 C0.763841077,32.2217078 0,30.592151 0,29.3684142 L0,0 Z" id="Rectangle-29-Copy" fill="#4E2BA9"></path>
+                            <polygon id="Path-5" fill="#4E2BA9" points="19.4000244 0.0649414062 34 8.99804688 35.8698949 8.99804688 21.057373 0.00708007812"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

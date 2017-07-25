@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="67" height="68" viewBox="0 0 67 68">
+  <defs>
+    <filter id="a" width="139.3%" height="139.3%" x="-19.6%" y="-12.5%" filterUnits="objectBoundingBox">
+      <feOffset dy="4" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="3"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <circle id="b" cx="26" cy="26" r="26"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#a)" transform="translate(6 2)">
+    <g transform="translate(0 4)">
+      <use fill="#6D2EF0" xlink:href="#b"/>
+      <circle cx="26" cy="26" r="25" stroke="#FAFCFF" stroke-width="2"/>
+      <ellipse cx="26" cy="26" stroke="#FFFFFF" stroke-width="2" rx="9" ry="25"/>
+      <rect width="50" height="2" x="1" y="25" fill="#FFFFFF"/>
+      <path fill="#FFFFFF" d="M5 38C5 38 15.25 42.6666667 25.5 42.6666667 35.75 42.6666667 46 38 46 38L46 40.3333333C46 40.3333333 35.75 45 25.5 45 15.25 45 5 40.3333333 5 40.3333333L5 38zM5 12C5 12 15.25 9 25.5 9 35.75 9 46 12 46 12L46 14C46 14 35.75 11 25.5 11 15.25 11 5 14 5 14L5 12z"/>
+    </g>
+    <g transform="translate(34)">
+      <ellipse cx="10.5" cy="25.5" fill="#FFFFFF" rx="2.5" ry="1.5"/>
+      <path fill="#D8C6FB" d="M21,10.7480796 C21,19.3726289 10.6702218,26 10.6702218,26 C10.6702218,26 0,19.3726289 0,10.7480796 C0,4.81156921 4.70051195,0 10.5,0 C16.2984926,0 21,4.81156921 21,10.7480796"/>
+      <path fill="#FFFFFF" d="M17,10.5208588 C17,13.8362932 13.295488,17.0608937 11.1836545,18.9986818 C11.1836545,18.9986818 10.693677,19.0027188 10.4763563,18.9966632 C10.2127544,18.9906077 9.68655677,18.9946447 9.68655677,18.9946447 C7.97616284,17.325321 4,13.7838114 4,10.5208588 C4,6.9198026 6.90968191,4 10.5005031,4 C14.089312,4 17,6.9198026 17,10.5208588"/>
+    </g>
+  </g>
+</svg>
