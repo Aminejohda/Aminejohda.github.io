@@ -210,8 +210,6 @@ blockquote{
 }
 .footer .container{
 	padding-bottom: 5%;
-background-color: #f67f33;
-
 
 }
 
@@ -225,7 +223,7 @@ background-color: #f67f33;
 }
 
 .bottom-footer{
-	padding: 2% 0 1% 0;
+	padding: 1% 0 1% 0;
 	background-color: white;
 }
 .social{
