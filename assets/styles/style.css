@@ -212,6 +212,7 @@ blockquote{
 
  .footer{
 	padding-bottom: 50px;
+	background-color: #f67f33;
 }
 select#soflow-color {
    color: #fff;
