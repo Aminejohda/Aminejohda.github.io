@@ -50,11 +50,11 @@
 	width: 40%;
 	margin-left: 30%;
 }
-/*@media (max-width:1200px){
+@media (max-width:1200px){
     .full-form{
 	width: 100%;
 	margin-left: 0%;
-}*/
+}}
 .panel-footer{
 	background-color: #fafcff; 
 	border-color: #d0d8db;
@@ -108,6 +108,13 @@
 .icon-center{
 	margin-left: 42%;
 }
+
+@media (max-width:1200px){
+.icon-center{
+	margin-left: 35%;
+}
+}
+
 .icons-pagetwo{
 	line-height: 2;
 	margin-top: 3%;
