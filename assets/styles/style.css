@@ -1,3 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,600,700|Poppins:300,400,500,600,700');
+body{
+    font-family: 'Nunito Sans', sans-serif;
+}
+li,ul,h1,h2,h3,h4,h5,button{
+	font-family: 'Poppins', sans-serif;
+}
 .navbar-toggle {
     border-color: #ddd;
 }.navbar-toggle .icon-bar{
@@ -8,13 +15,16 @@
 	margin-top: 10px;
 	margin-bottom: 10%;
 }
+.margin-form{
+	margin-top: 33%;
+}
 .nav-section a {
 	color: black;
-	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+
 }
 .dprint {
 	border: solid;
-	font-family: Georgia, serif;
+
 }
 .logo{
 	width: 148px;
@@ -25,7 +35,6 @@
 	background-repeat: no-repeat;
 }
 .titre{
-	font-family: Georgia, serif;
 	padding-bottom: 20px;
 }
 .form-heading{
@@ -63,7 +72,6 @@
 	-webkit-border-radius: 60px;
 	-moz-border-radius: 60px;
  	border-radius: 60px;
-	font-family: Georgia;
 	font-size: 15px;
  	color: #ffffff;
  	background: #f48a44;
@@ -180,7 +188,6 @@ blockquote{
 	-webkit-border-radius: 60px;
 	-moz-border-radius: 60px;
  	border-radius: 60px;
-	font-family: Georgia;
 	font-size: 15px;
  	color: #ffffff;
  	background: #f48a44;
@@ -238,4 +245,6 @@ background-color: #f67f33;
 }
 .social{
 	display: -webkit-box;
+}
+h1,h2,h3,h4 {
 }
