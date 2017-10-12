@@ -54,7 +54,29 @@ padding: 0;
 .stage-content {
 margin-left: 1.3em;}
 
+  .skill span{
+  position: absolute;
+        top: 9.3em;
+        left: auto;
+        right: 4.4em;
+}
 
+#menu
+{
+    width: 168.8%;
 
+}
 
+}
+@media  (max-width:  360px){
+  .skill span{
+    position: absolute;
+       top: 6.5em;
+        left: auto;
+        right: 1.8em;
+}
+#menu
+{
+  width: 137%;
+}
 }

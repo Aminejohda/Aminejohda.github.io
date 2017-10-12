@@ -7,6 +7,9 @@ body{
 li,ul,h1,h2,h3,h4,h5{
     font-family: 'Poppins', sans-serif;
 }
+h3{
+    text-transform: uppercase;
+}
     .story-description h3 {
         color: #00B6F9;
         line-height: 1;
@@ -132,7 +135,7 @@ width: 100%;
         border-radius: 50%;
         height: 30px;
         left: auto;
-        right: 1.3em;
+        right: 0.2em;
         display: inline-block;
         position: absolute;
         width: 30px;
@@ -314,9 +317,9 @@ align-content : flex-start ;
   position: absolute;
     
         text-align: center;
-        top: 7.4em;
+        top: 6.4em;
         left: auto;
-        right: 4em;
+        right: 3em;
 }
 
 
