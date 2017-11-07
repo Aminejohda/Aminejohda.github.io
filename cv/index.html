@@ -762,8 +762,9 @@ Mon ambition est d'intervenir sur des projets d'envergure et à grande valeur aj
                 <h2 class="small-heading">SAY HELLO!</h2>
                 
                 <div class="contact-form col-sm-11 clearfix">
-                    
-                    <form action="https://formspree.io/mohamedamine.mhiri@esprit.tn" id="contactForm" method="post" name="contactForm">
+                    <form method="POST" action="http://formspree.io/mohamedamine.mhiri@esprit.tn">
+
+
                         <fieldset>
                             <div class="col-sm-12">
                                 <input id="name" name="name" placeholder="Your Name*" type="text" value="">
@@ -772,19 +773,19 @@ Mon ambition est d'intervenir sur des projets d'envergure et à grande valeur aj
                             <!-- Name Field [ END ] -->
                             
                             <div class="col-sm-12">
-                                <input id="email" name="email" placeholder="Your Email*" type="text" value="">
+                                <input name="email" placeholder="Your email" type="email">
                             </div>
                             
                             <!-- Email Field [ END ] -->
                             
                             <div class="col-xs-12">
-                                <textarea cols="5" id="message" name="message" placeholder="Your Message....*"></textarea>
+                               <textarea name="message" placeholder="Your message"></textarea>
                             </div>
                             
                             <!-- Message Field [ END ] -->
                             
                             <div class="col-xs-12">
-                                <input type="submit" value="SEND" class="submit active">
+                                 <button type="submit">Send</button>
                             </div>
                             
                             <div class="error col-xs-12">
