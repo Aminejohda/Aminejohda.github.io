@@ -4,4 +4,3 @@ Disallow: /*.png$
 Disallow: /*.gif$
 Disallow: /images/
 Allow: /
-Sitemap : /sitemap.xml
