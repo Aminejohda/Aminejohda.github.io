@@ -4,4 +4,4 @@ Disallow: /*.png$
 Disallow: /*.gif$
 Disallow: /images/
 Allow: /
-Sitemap : sitemap.xml
+Sitemap: http://medaminemhiri.me/sitemap.xml
